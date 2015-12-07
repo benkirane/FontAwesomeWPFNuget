@@ -1,0 +1,15 @@
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\bin\Debug\FontAwesomeTestWpfApp.exe.config
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\bin\Debug\FontAwesomeTestWpfApp.exe
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\bin\Debug\FontAwesomeTestWpfApp.pdb
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.csprojResolveAssemblyReference.cache
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\MainWindow.baml
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\MainWindow.g.cs
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\App.g.cs
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp_MarkupCompile.cache
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.g.resources
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.Properties.Resources.resources
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.csproj.GenerateResource.Cache
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.exe
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\obj\Debug\FontAwesomeTestWpfApp.pdb
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\bin\Debug\FontAwesomeWPF.dll
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeTestWpfApp\bin\Debug\FontAwesomeWPF.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	    <metadata>
+	        <id>FontAwesomeWPF</id>
+	        <version>1.0.0</version>
+	        <authors>Hicham Benkirane</authors>
+	        <projectUrl>http://www.benkirane.ch</projectUrl>
+	        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	        <description>Using Font Awesome, the iconic font and css toolkit in WPF Apps.</description>
+	    </metadata>
+	</package>

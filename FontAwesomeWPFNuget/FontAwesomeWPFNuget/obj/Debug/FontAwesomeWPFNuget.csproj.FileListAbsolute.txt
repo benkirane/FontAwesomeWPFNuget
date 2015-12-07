@@ -1,0 +1,6 @@
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\bin\Debug\FontAwesomeWPF.dll
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\bin\Debug\FontAwesomeWPF.pdb
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\obj\Debug\FontAwesomeWPF.g.resources
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\obj\Debug\FontAwesomeWPF.dll
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\obj\Debug\FontAwesomeWPF.pdb
+C:\Workspace\FontAwesomeWPFNuget\FontAwesomeWPFNuget\obj\Debug\FontAwesomeWPFNuget.csprojResolveAssemblyReference.cache
